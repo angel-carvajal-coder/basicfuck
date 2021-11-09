@@ -1,0 +1,9 @@
+#basicfuck t=30000 r=0~255 o=wrap
+#allocate a, b, x, y, arr->3, z
+
+y += 30;
+x += 20;
+x += y;
+
+x -= x;
+y -= y;
