@@ -84,7 +84,7 @@ for statement in statements:
             cellPointer += diff
             output += '>' * diff + '[-' + '<' * diff + op + '>' * diff + ']'
 
-            output += 
+            #output += 
     
     output += '<' * cellPointer
     output += '\n'
